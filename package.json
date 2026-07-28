@@ -33,6 +33,7 @@
   },
   "homepage": "https://github.com/bitfinexcom/lib-js-util-base#readme",
   "devDependencies": {
+    "lodash": "^4.18.1",
     "mocha": "10.8.2",
     "mocha-it-each": "1.0.2",
     "nyc": "15.1.0",
